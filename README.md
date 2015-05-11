@@ -5,6 +5,6 @@ git checkout -b add-command-log
 git checkout --help
 subl . 
 
-mark's change
+mark's change.
 
 
